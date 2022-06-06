@@ -10,7 +10,7 @@ categories:
 
 ---
 # A
-Content of issue A
+Content of topic A
 
 ## Stats
 * Roster count:            
