@@ -22,5 +22,8 @@ Content of topic A
 ### Deadline:
 Saturday @ 11:59:59pm mst
 
-#### Suporters & Rejectors
+#### Suporters
+noll
+
+#### Rejectors
 
