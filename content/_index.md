@@ -44,8 +44,29 @@ Currently the options are GitHub and email for communication.
 
 As for what can be contributed:
 * individually one can support or reject ideas being presented.
-* Collaborativly groups can develop ideas to be reprinted.
+* Collaboratively groups can develop ideas to be reprinted.
+  * This involves creating small groups to work in. 
+Again GitHub and email can be employed for this purpose.
 
+
+## Usage
+* All topic are an unique identifier allowing indivduals to reference them. 
+  * GitHub
+Thus supporting or rejecting an idea is as simple as assigning the reference 
+id to your supported or rejected file.
+  * Email
+Send the reference id, username, and stance (support or reject) in an email. 
+Specifics on the email to send the information to is still being worked out.
+* Collaboration is up to those involved though GitHub has tools to make the 
+process easier. Otherwise there will be agree upon criteria that must meet for 
+a topic "idea" to be reprinted.
+  * Criteria will include:
+    * Formatting for the document
+    * An inital number of supporters
+      * For the county > 100
+      * For a precinct > 10
+
+Note the criteria is not fixed in stone. Eventually it should be decided by majority.
 
 
 
