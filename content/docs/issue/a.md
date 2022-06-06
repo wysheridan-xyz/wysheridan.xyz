@@ -1,6 +1,5 @@
 ---
 weight: 1
-id: "a"
 title: "A"
 description: ""
 date: "2022-06-06"
@@ -10,27 +9,20 @@ categories:
    - "Development"
 
 ---
-###### id: a
-
 # A
-
-## Content
-
 Content of issue A
 
+## Stats
+* Roster count:            
+* Active this month count: 
+* Active this week count:  
+* Supporters count:        
+* Rejectors count:         
 
-### Stats
+### Deadline:
+Saturday @ 11:59:59pm mst
 
-* **Roster count: **            
-* **Active this month count: ** 
-* **Active this week count: **  
-* **Supporters count: **        
-* **Rejectors count: **         
-
-#### Deadline:
-
-
-##### Suporters and Rejectors
+#### Suporters and Rejectors
 
 
 
