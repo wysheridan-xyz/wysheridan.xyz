@@ -46,14 +46,14 @@ As for what can be contributed:
 * individually one can support or reject ideas being presented.
 * Collaboratively groups can develop ideas to be reprinted.
   * This involves creating small groups to work in. 
-Again GitHub and email can be employed for this purpose.
+    * Again GitHub and email can be employed for this purpose.
 
 
 ## Usage
 * All topic are unique allowing indivduals to reference them. The topic is the reference id. 
   * GitHub
-    * Thus supporting or rejecting an idea is as simple as assigning the reference 
-id to your support or reject file.
+    * Thus supporting or rejecting an idea is as simple as assigning the reference id to your support or reject file.
+      * A GitHub repository template can be view [here](https://github.com/wysheridan-xyz/wysheridan-account).
   * Email
     * Send the reference id, username, and stance (support or reject) in an email. 
       * Specifics on the email to send the information to is still being worked out.
