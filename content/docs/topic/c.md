@@ -1,18 +1,26 @@
 ---
-title: "C"
 weight: 1
+title: "C"
+description: ""
+date: "2022-06-06"
+tags:
+   - ""
+categories:
+   - ""
+
 ---
+# C
+Content of topic C
 
-# issue C
+## Stats
+* Roster count:            
+* Active this month count: 
+* Active this week count:  
+* Supporters count:        
+* Rejectors count:         
 
-c.md
+### Deadline:
+Saturday @ 11:59:59pm mst
 
-# id
-
-c
-
-# Description
-
-A description would be here.
-
+#### Suporters & Rejectors
 

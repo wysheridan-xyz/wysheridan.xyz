@@ -1,18 +1,26 @@
 ---
-title: "B"
 weight: 1
+title: "B"
+description: ""
+date: "2022-06-06"
+tags:
+   - ""
+categories:
+   - ""
+
 ---
+# B
+Content of topic B
 
-# issue B
+## Stats
+* Roster count:            
+* Active this month count: 
+* Active this week count:  
+* Supporters count:        
+* Rejectors count:         
 
-b.md
+### Deadline:
+Saturday @ 11:59:59pm mst
 
-# id
-
-b
-
-# Description
-
-A description would be here.
-
+#### Suporters & Rejectors
 
