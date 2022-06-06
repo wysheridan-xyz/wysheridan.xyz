@@ -39,5 +39,14 @@ Additional informatin can include:
 * edits
 * comments
 
+## Contribute & Collaborate
+Currently the options are GitHub and email for communication.
+
+As for what can be contributed:
+* individually one can support or reject ideas being presented.
+* Collaborativly groups can develop ideas to be reprinted.
+
+
+
 
 
