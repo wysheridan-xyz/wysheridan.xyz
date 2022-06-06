@@ -4,9 +4,9 @@ title: "A"
 description: ""
 date: "2022-06-06"
 tags:
-   -  "development"
+   - ""
 categories:
-   - "Development"
+   - ""
 
 ---
 # A
@@ -22,7 +22,5 @@ Content of issue A
 ### Deadline:
 Saturday @ 11:59:59pm mst
 
-#### Suporters and Rejectors
-
-
+#### Suporters & Rejectors
 
