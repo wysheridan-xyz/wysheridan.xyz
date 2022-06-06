@@ -56,16 +56,18 @@ Again GitHub and email can be employed for this purpose.
 id to your supported or rejected file.
   * Email
     * Send the reference id, username, and stance (support or reject) in an email. 
-Specifics on the email to send the information to is still being worked out.
+      * Specifics on the email to send the information to is still being worked out.
 * Collaboration is up to those involved though GitHub has tools to make the 
-process easier. Otherwise there will be agree upon criteria that must meet for 
+process easier. 
+  * However there will be agreed upon criteria that must meet for 
 a topic "idea" to be reprinted.
   * Criteria will include:
-    * Formatting for the document
+    * Formatting of the document
     * An inital number of supporters
       * For the county > 100
       * For a precinct > 10
-      * Note the criteria is not fixed in stone. Eventually it should be decided by majority.
+      * Note the criteria is not fixed in stone. 
+        * Eventually it should be decided by majority with respect to usefulness.
 
 
 
