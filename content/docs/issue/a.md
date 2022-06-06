@@ -1,18 +1,36 @@
 ---
-title: "A"
 weight: 1
+id: "a"
+title: "A"
+description: ""
+date: "2022-06-06"
+tags:
+   -  "development"
+categories:
+   - "Development"
+
 ---
+###### id: a
 
-# issue A
+# A
 
-a.md
+## Content
 
-# id
+Content of issue A
 
-a
 
-# Description
+### Stats
 
-A description would be here.
+* **Roster count: **            
+* **Active this month count: ** 
+* **Active this week count: **  
+* **Supporters count: **        
+* **Rejectors count: **         
+
+#### Deadline:
+
+
+##### Suporters and Rejectors
+
 
 
