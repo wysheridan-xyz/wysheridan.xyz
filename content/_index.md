@@ -50,10 +50,10 @@ Again GitHub and email can be employed for this purpose.
 
 
 ## Usage
-* All topic are an unique identifier allowing indivduals to reference them. 
+* All topic are unique allowing indivduals to reference them. The topic is the reference id. 
   * GitHub
     * Thus supporting or rejecting an idea is as simple as assigning the reference 
-id to your supported or rejected file.
+id to your support or reject file.
   * Email
     * Send the reference id, username, and stance (support or reject) in an email. 
       * Specifics on the email to send the information to is still being worked out.
