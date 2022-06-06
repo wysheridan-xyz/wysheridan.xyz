@@ -4,6 +4,11 @@ bookFlatSection: true
 title: Roster
 bookCollapseSection: true
 
+menu:
+  after:
+    name: Roster
+    weight: 5
+
 ---
 # Username
 noll
