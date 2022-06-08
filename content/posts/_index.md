@@ -3,7 +3,7 @@ enableGitInfo: false
 weight: 1
 menu:
   after:
-    name: Updates 
+    name: Topics 
     weight: 5
-title: Updates
+title: Topics
 ---
