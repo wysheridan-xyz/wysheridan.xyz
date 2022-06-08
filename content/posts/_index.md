@@ -5,6 +5,6 @@ title: Topics
 menu:
   after:
     name: Topics
-    weight: 10
+    weight: 5
 
 ---
