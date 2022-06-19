@@ -2,10 +2,10 @@
 title: "A"
 description: "Description of topic A"
 tags:
-   -  "development"
-date: "2022-08-01"
+   -  "A"
+date: "2022-06-10"
 categories:
-   - "Development"
+   - "Topic"
 menu: "main"
 
 ---
