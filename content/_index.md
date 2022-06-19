@@ -49,10 +49,23 @@ accepted meaning of ideas, no
 further productive deliberation
 of those ideas can ensue.
 
-The idea here is that simple
+## Proposal
+The idea that stances of
 * support
 * reject
 
-citizen stances can be tallied
-to determine what is currently 
-county majority.
+can be tallied
+to determine. 
+What is currently 
+the county majority?
+
+Then form that foundation further
+information services can be
+developed and provided to the
+citizenry.
+
+The vision is that this can be 
+accomplished by the citizenry.
+
+Rekindle the Spirit:
+Of, By, & For is still an option.
