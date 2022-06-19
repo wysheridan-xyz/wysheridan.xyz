@@ -1,11 +1,12 @@
 ---
-title: "Getting Started"
+title: "Getting Started with GitHub"
 description: ""
 tags:
-   -  "development"
+   -  "GitHub"
 date: "2022-06-01"
 categories:
    - "Development"
+   - "Getting Started"
 menu: "main"
 
 ---
