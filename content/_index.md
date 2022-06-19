@@ -52,6 +52,7 @@ of those ideas can ensue.
 The idea here is that simple
 * support
 * reject
+
 citizen stances can be tallied
 to determine what is currently 
 county majority.
