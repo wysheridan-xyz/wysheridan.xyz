@@ -36,9 +36,7 @@ process.
 The options
 * support
 * reject
-or
-* ignore (default)
-.
+* or  ignore (default).
 
 ### Process
 * Direct citizen input. 
@@ -59,8 +57,7 @@ public communication.
 ## The Vision 
 We the People collaboratively 
 accomplishing the work of citizens 
-(the work necessary to remain 
-among the living). 
+(the work necessary to coexist). 
 
 ## In Summary
 Rekindle Our County Spirit:
