@@ -5,7 +5,7 @@ type: docs
 
 # Where the majority is on record.
 
-## About
+## Intro
 The goal is to determine, if the 
 citizenry of Sheridan County Wyoming
 are willing to know and understand
@@ -13,17 +13,17 @@ the majority opinions, currently,
 held by the population.
 
 In order to determine the 
-county majority. The county 
+majority. The county 
 population is broken up into 
 voting districts and precincts. To
 further easy the process the precinct
-populations can further be broken up
+populations can also be broken up
 into street and even block populations 
 as needed.
 
 The choice of strategy for building up
 to a county majority from small local 
-population stance tallies is to ensure a 
+population voting tallies is to ensure a 
 transparent process that any citizen
 can verify for themselves. 
 
@@ -31,41 +31,37 @@ Success will be measured by accuracy of
 information and public confidence in the 
 process.
 
-So what is the difference between 
-opinion and fact?
-
-The approach to be taken here is 
-twofold. First the majority decides the
-distinction of opinion and fact. 
-Then each citizen can determine, for themselves,
-the facts value.
-
-The intent here is to determine
-common accepted meaning. 
-
-Until the majority is having the 
-same conversation with common
-accepted meaning of ideas, no
-further productive deliberation
-of those ideas can ensue.
-
 ## Proposal
-The idea that stances of
+### One Person One Vote
+The options
 * support
 * reject
+or
+* ignore (default)
+.
 
-can be tallied
-to determine. 
-What is currently 
-the county majority?
+### Process
+* Direct citizen input. 
+* Sum the inputs. 
+* Report back to the citizenry. 
+* Repeat when necessary.
 
-Then form that foundation further
-information services can be
-developed and provided to the
-citizenry.
+## Next step
+Success could lead to a foundation 
+for local information services to ensure an
+informed & engaged county citizenry.
 
-The vision is that this can be 
-accomplished by the citizenry.
+## Functioning Direct Democracy
+Not as a form of government, yet
+as a means for meaningful 
+public communication.
 
-Rekindle the Spirit:
+## The Vision 
+We the People collaboratively 
+accomplishing the work of citizens 
+(the work necessary to remain 
+among the living). 
+
+## In Summary
+Rekindle Our County Spirit:
 Of, By, & For is still an option.
