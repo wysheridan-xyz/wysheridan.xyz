@@ -61,4 +61,5 @@ accomplishing the work of citizens
 
 ## In Summary
 Rekindle Our County Spirit:
+
 Of, By, & For is still an option.
