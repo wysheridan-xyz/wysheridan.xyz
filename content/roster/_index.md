@@ -11,8 +11,8 @@ menu:
 
 ---
 # Roster
-| Lname | Fname | District | Precinct | handle  |
-| - | - | - | - | - |
-| Roberts | Noll | 02 | 02 | noll |
+| Lname | Fname | District | Precinct | GitHub | handle  |
+| - | - | - | - | - | - |
+| Roberts | Noll | 02 | 02 | nollroberts | noll | 
 
 
