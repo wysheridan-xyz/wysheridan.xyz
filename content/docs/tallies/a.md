@@ -7,6 +7,7 @@ tags:
    - ""
 categories:
    - ""
+bookHidden = true
 
 ---
 # A
