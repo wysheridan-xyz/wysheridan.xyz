@@ -14,15 +14,21 @@ bookHidden: false
 
 
 ## Stats
-* Roster count: 1            
-* Supporters count: 1       
-* Rejectors count: 0         
+| Population | Count |
+| :- | -: |
+| Roster | 1 |            
+| Supporters | 1 |      
+| Rejectors |  0 |         
 
-### Deadline:
+## Deadline:
 Saturday July 30th, 2022 @ 11:59:59pm mst
 
-#### Suporters
-noll
+## Suporters
+| Handle |
+| - |
+| noll |
 
-#### Rejectors
-
+## Rejectors
+| Handle |
+| - |
+|  |
