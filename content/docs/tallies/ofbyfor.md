@@ -7,7 +7,7 @@ tags:
    - ""
 categories:
    - ""
-bookHidden = false
+bookHidden: false
 
 ---
 # Of, By, & For is still an option.

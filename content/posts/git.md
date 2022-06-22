@@ -8,6 +8,7 @@ categories:
    - "Development"
    - "Getting Started"
 menu: "main"
+bookHidden: true
 
 ---
 

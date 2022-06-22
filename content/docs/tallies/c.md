@@ -7,7 +7,7 @@ tags:
    - ""
 categories:
    - ""
-bookHidden = true
+bookHidden: true
 
 ---
 # C
