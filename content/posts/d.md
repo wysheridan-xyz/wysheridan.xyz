@@ -1,17 +1,18 @@
 ---
-title: "D"
-description: "Description of topic D"
+title: "beaver"
+description: ""
 tags:
-   -  "D"
-date: "2022-06-18"
+   -  "city council"
+   -  "clive beaver"
+   -  "annalogy"
+   -  "persuasion"
+date: "2022-07-14"
 categories:
-   - "Topic"
+   - "Election"
 menu: "main"
 bookHidden: true
+vid: "vids/cb.mp4"
 
 ---
-
-# D
-
-Gory details of topic D.
+# Clive
 
