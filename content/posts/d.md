@@ -11,7 +11,7 @@ categories:
    - "Election"
 menu: "main"
 bookHidden: true
-vid: "vids/cb.mp4"
+vid: "/vids/cb.mp4"
 
 ---
 # Clive
