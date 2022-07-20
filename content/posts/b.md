@@ -8,7 +8,6 @@ categories:
    - "Topic"
 menu: "main"
 bookHidden: true
-vid: ""
 
 ---
 
