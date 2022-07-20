@@ -1,9 +1,9 @@
 ---
-title: "beaver"
+title: "Beaver"
 description: ""
 tags:
    -  "city council"
-   -  "clive beaver"
+   -  "clint beaver"
    -  "annalogy"
    -  "persuasion"
 date: "2022-07-14"
@@ -14,5 +14,5 @@ bookHidden: true
 vid: "/vids/cb.mp4"
 
 ---
-# Clive
+# Clint
 
