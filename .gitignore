@@ -11,6 +11,11 @@ resources/
 static/  
 themes/  
 
+assets/
+i18n/
+images/
+
+
 makefile   
 r
 up
