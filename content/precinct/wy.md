@@ -8,7 +8,7 @@ moods: []
 data: "precinct_tally"
 lon: 44.796667
 lat: -106.958889
-zoom: 9
+zoom: 11
 
 ---
 
