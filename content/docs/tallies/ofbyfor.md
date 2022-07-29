@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "OfBy&For"
+title: "Of, By, & For"
 description: ""
 date: "2022-06-22"
 tags:
@@ -13,7 +13,7 @@ bookHidden: false
 # Of, By, & For is still an option.
 
 ## Deadline
-Saturday July 30th, 2022 @ 11:59:59pm mst
+Monday October 31th, 2022 @ 11:59:59pm mst
 
 ## Stats
 | Population | Count |
