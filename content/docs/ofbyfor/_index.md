@@ -1,5 +1,5 @@
 ---
-title: About
+title: Of, By, & For
 type: docs
 ---
 
