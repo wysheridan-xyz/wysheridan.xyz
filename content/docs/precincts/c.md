@@ -1,30 +1,16 @@
 ---
 weight: 1
-title: "C"
+title: "02-02"
 description: ""
-date: "2022-06-06"
+date: "2022-06-22"
 tags:
    - ""
 categories:
    - ""
-bookHidden: true
+bookHidden: false
 
 ---
-# C
-Content of topic C
 
-## Stats
-* Roster count:            
-* Active this month count: 
-* Active this week count:  
-* Supporters count:        
-* Rejectors count:         
+# 02-02
 
-### Deadline:
-Saturday @ 11:59:59pm mst
-
-#### Suporters
-
-
-#### Rejectors
-
+## Parties
