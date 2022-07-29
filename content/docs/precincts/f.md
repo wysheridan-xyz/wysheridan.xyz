@@ -13,4 +13,13 @@ bookHidden: false
 
 # 02-05
 
-## Parties
+## Party platforms
+
+### Democrats
+
+### Republicans
+
+### Unaffiliated
+
+## Issues
+
