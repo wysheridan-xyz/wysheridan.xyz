@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: ""
+title: "Unaffiliated"
 description: "Unaffiliated"
 date: "2022-07-29"
 tags:
