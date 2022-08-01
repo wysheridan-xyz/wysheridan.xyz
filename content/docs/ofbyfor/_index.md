@@ -64,21 +64,24 @@ that derives its authority from
 the governed). 
 
 ## A Mechanism
-A convenient option for reporting 
+- A convenient option for reporting 
 to the citizenry is a website. 
-A website provides a single online 
+- A website provides a single online 
 location for obtaining current 
-availible information. Furthermore
+availible information. 
+- Furthermore
 a website can be divided up into a 
 collection of webpages allowing 
 information to be organized by
 the county as a whole or each 
-precinct seperately. Additionally
+precinct seperately. 
+- Additionally
 meta data, i.e. tags, keywords, 
 can be used to link related
-information. Thus allowing for
+information. 
+- Thus allowing for
 the development of complex ideas.
-Finall email and Github can be used
+- Finally email and Github can be used
 for individuals, independently and
 collaboratively, to input information
 for the purpose of publicly reporting
