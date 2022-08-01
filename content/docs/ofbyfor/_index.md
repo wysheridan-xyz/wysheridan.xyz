@@ -8,12 +8,12 @@ type: docs
 ## Intro
 The goal is to determine, if the 
 citizenry of Sheridan County Wyoming
-are willing to know and understand
+is willing to know and understand
 the majority opinions, currently,
 held by the population.
 
 In order to determine the 
-majority. The county 
+majority the county 
 population is broken up into 
 voting districts and precincts. To
 further easy the process the precinct
@@ -57,7 +57,32 @@ public communication.
 ## The Vision 
 We the People collaboratively 
 accomplishing the work of citizens 
-(the work necessary to coexist). 
+(the work necessary to provide,
+timely, 
+civic leadership for our Republic
+that derives its authority from
+the governed). 
+
+## A Mechanism
+A convenient option for reporting 
+to the citizenry is a website. 
+A website provides a single online 
+location for obtaining current 
+availible information. Furthermore
+a website can be divided up into a 
+collection of webpages allowing 
+information to be organized by
+the county as a whole or each 
+precinct seperately. Additionally
+meta data, i.e. tags, keywords, 
+can be used to link related
+information. Thus allowing for
+the development of complex ideas.
+Finall email and Github can be used
+for individuals, independently and
+collaboratively, to input information
+for the purpose of publicly reporting
+it.
 
 ## In Summary
 Rekindle Our County Spirit:
