@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "02-02"
+title: "Platforms"
 description: ""
 date: "2022-07-29"
 tags:
@@ -11,14 +11,10 @@ bookHidden: false
 
 ---
 
-# 02-02
-
-## Party platforms
+# Party platforms
 
 ### Democrats
 
 ### Republicans
 
 ### Unaffiliated
-
-## Issues
