@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Issues"
+title: "A"
 description: ""
 date: "2022-07-29"
 tags:
@@ -11,4 +11,10 @@ bookHidden: false
 
 ---
 
-# Issues
+# Party platforms
+
+### Democrats
+
+### Republicans
+
+### Unaffiliated
