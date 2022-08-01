@@ -222,8 +222,8 @@ Wyomingites.
     placement and institutional care.
 
 ##                             SECTION 5: EDUCATION, ARTS and CULTURE
-       “Liberty without Learning is always in peril and Learning without Liberty is always in vain.”
-                                                                                       ― John F. Kennedy
+“Liberty without Learning is always in peril and Learning without Liberty is always in vain.”
+ ― John F. Kennedy
 
 Sheridan County Democrats believe robust investment in a strong and diverse public
 education system is essential for individual success and responsible citizenship. We
@@ -305,12 +305,10 @@ goods and services.
 
 ##                  SECTION 7: PUBLIC LANDS, CONSERVATION, AND THE ENVIRONMENT
 
-    Wyoming is known for the beauty of our diverse and dramatic natural environments.
-    Our access to public lands and spaces is unique, and Sheridan County Democrats
-    recognize the importance of conserving wildlife, wildlands, and our rich legacy of
-    connecting with the environment. We believe that Wyoming’s travel, wildlife, and
-    outdoor recreation sector is vital to our way of life and economy. We believe that
-    providing quality jobs and protecting the environment are not mutually exclusive goals.
+Wyoming is known for the beauty of our diverse and dramatic natural environments.
+Our access to public lands and spaces is unique, and Sheridan County Democrats recognize the importance of conserving wildlife, wildlands, and our rich legacy of connecting with the environment. 
+We believe that Wyoming’s travel, wildlife, and outdoor recreation sector is vital to our way of life and economy. 
+We believe that providing quality jobs and protecting the environment are not mutually exclusive goals.
 
 * We recognize that federal lands belong to all Americans and we oppose any efforts to
     transfer management of public lands to the state or any other entity.
